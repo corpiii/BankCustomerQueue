@@ -1,0 +1,6 @@
+public struct BankCustomerQueue {
+    public private(set) var text = "Hello, World!"
+
+    public init() {
+    }
+}
